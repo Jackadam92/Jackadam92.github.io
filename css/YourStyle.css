@@ -1,0 +1,114 @@
+/* Global Styles */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.img-portfolio {
+    margin-bottom: 30px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+/* Home Page Carousel */
+
+header.carousel {
+    height: 50%;
+}
+
+header.carousel .item,
+header.carousel .item.active,
+header.carousel .carousel-inner {
+    height: 100%;
+}
+
+header.carousel .fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+/* Footer Styles */
+
+footer {
+    margin: 50px 0;
+}
+
+
+/* Add your styles below with comments*/
+
+
+
+
+.lowerstyling
+{
+	
+   
+    width:100%;
+	bottom:-100px;
+    height:80px;
+	color:grey;
+	background-color:black;
+	padding-bottom:100px;
+	position:fixed;
+	left:0px;
+}
+
+.linestyling
+{
+	text-align:center;
+	
+}
+
+.copyrightstyle
+{
+	text-align:right;
+}
+
+.pageclass
+{
+	padding-bottom:100px;
+}
+
+.headingst
+{
+	text-align:center;
+}
+
+.tdimagestyle
+{
+	width:330px;
+	height:340px;
+	padding-left: 28px;
+}
+
+.h3heading
+{
+	text-align:center;
+	padding-left: 35px;
+}
+
+.h4heading
+{
+	text-align:center;
+	padding-left: 10px;
+}
+
+.btn
+{
+	text-align:center;
+}
+.intd
+{
+	text-align:center;
+}
